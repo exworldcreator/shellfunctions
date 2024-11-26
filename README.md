@@ -1,8 +1,7 @@
 # shellfunctions
-rm_handler
-rmdir_handler
-mkdir_handler
-pwd_handler
-cat_handler
-ls_handler
-<<file may be supplemented>>
+1. rm_handler
+2. rmdir_handler
+3. mkdir_handler
+4. pwd_handler
+5. cat_handler
+6. ls_handler
